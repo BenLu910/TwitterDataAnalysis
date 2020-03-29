@@ -1,0 +1,31 @@
+ID,url,date_time,text,emoji,user_id,usernameTweet,nbr_reply,nbr_favorite,nbr_retweet,is_reply,is_retweet,sid
+1213946306143625221,/eyeTSystems/status/1213946306143625221,2020-01-05 17:12:08,"CVE-2019-20336 In PHP Scripts Mall advanced-real-estate-script 4.0.9, the search-results.php searchtext parameter is vulnerable to XSS. https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-20336",0,381963910,eyeTSystems,0,0,0,0,0,1
+1213946850757218304,/hernanespinoza/status/1213946850757218304,2020-01-05 17:14:17,"CVEnew: CVE-2019-20336 In PHP Scripts Mall advanced-real-estate-script 4.0.9, the search-results.php searchtext parameter is vulnerable to XSS. https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-20336",0,39302152,hernanespinoza,0,0,0,0,0,1
+1213972047778533376,/VulmonFeeds/status/1213972047778533376,2020-01-05 18:54:25,"CVE-2019-20336
+
+In PHP Scripts Mall advanced-real-estate-script 4.0.9, the search-results.php searchtext parameter is vulnerable to XSS.
+
+http://vulmon.com/vulnerabilitydetails?qid=CVE-2019-20336",0,941389496771399680,VulmonFeeds,0,0,0,0,0,1
+1214104190538174464,/threatmeter/status/1214104190538174464,2020-01-06 03:39:30,PHP Scripts Mall advanced-real-estate-script 4.0.9 search-results.php searchtext cross site scripting: A https://goo.gl/fb/tQyzXu,0,3465979397,threatmeter,0,0,0,0,0,1
+1214105432060387328,/SecurityMagnate/status/1214105432060387328,2020-01-06 03:44:26,threatmeter: PHP Scripts Mall advanced-real-estate-script 4.0.9 search-results.php searchtext cross site scripting: A https://goo.gl/fb/tQyzXu,0,2818572617,SecurityMagnate,0,0,0,0,0,1
+1214130555316514816,/maher275/status/1214130555316514816,2020-01-06 05:24:16,PHP Scripts Mall advanced-real-estate-script 4.0.9 search-results.php searchtext cross sitescripting https://www.digitalmunition.me/php-scripts-mall-advanced-real-estate-script-4-0-9-search-results-php-searchtext-cross-site-scripting/pic.twitter.com/AYW9txNcrb,0,115889273,maher275,0,0,0,0,0,1
+1224231893610176513,/soaptacular/status/1224231893610176513,2020-02-03 02:23:23,"""big tiddied phat arsed whore"" I think you found your new searchtext",0,3056792644,soaptacular,0,0,0,1,0,1
+1224470093767286785,/lalalovemail/status/1224470093767286785,2020-02-03 18:09:54,"Also the blm was a slutty catboy with the searchtext ""accept the gay catboy and he will accept you"" and halfway through the healer emoted ""[healer] loves his husband [blm]"" and I realised they had the same surname I was like omg... gay rights. I /congratulate'd them both",0,1108722762137387013,lalalovemail,1,4,0,0,0,1
+1224703292158238722,/RodoBobJon/status/1224703292158238722,2020-02-04 09:36:33,"Possible debounce bug: a search request that began can finish after a subsequent request, which could display results for the previous searchText rather than the current searchText. I structure my Debouncer with a completion which is never called if there has been a new request: pic.twitter.com/OHSOYiLccc",0,1083108771377958921,RodoBobJon,1,0,0,1,0,1
+1234457888774443012,/mattbdevaney/status/1234457888774443012,2020-03-02 07:37:50,"#PowerAppsTip
+
+Do you want a ComboBox in your form to allow custom values?
+
+Put this code in the Update Property of the Card
+
+If(
+    !IsBlank(comboBox1.Selected),
+    comboBox1.Selected,
+    {Value: comboBox1.SearchText}
+)
+
+#PowerAddicts #PowerAppspic.twitter.com/wzozy7aOvD",0,1165267968881827845,mattbdevaney,3,63,25,0,0,1
+1238185737255862283,/SureshSeelam18/status/1238185737255862283,2020-03-12 15:30:58,"https://www.asmak9.com/2016/03/aspnet-mvc5-datatables-plugin-server_12.html
+
+when we set searchable : true, want to hit server code / controller only when user hit enter key and read the text in searchtext box of datatable",0,3222334984,SureshSeelam18,0,0,0,0,0,1
+1239906991801348106,/_Babington/status/1239906991801348106,2020-03-17 09:30:37,"This apprenticeship forms the foundation of a career within the financial sector, providing the training to become a Customer Experience Representative. Job role, benefits & application here: http://ow.ly/xcmS50yMCrl(003?searchtext=apprentice&loc=0&type=&time=&loc2=&brand= pic.twitter.com/ddfHXfecq3",0,191077816,_Babington,0,0,0,0,0,1
